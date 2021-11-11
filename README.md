@@ -82,10 +82,10 @@ __Frameworks, Libraries & Programs Used__
   *  [ W3C Marku Validator](https://validator.w3.org/)
   *  [ W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
-![test result 1](https://user-images.githubusercontent.com/90872113/141376028-d71cbb79-ba38-4807-b981-71f509058327.jpg)
+![test result 1](https://github.com/Flow-matic/Crypo-News/blob/main/assets/w3cvalidation/test1.jpg?raw=true)
 
 
-![test result 2](https://user-images.githubusercontent.com/90872113/141376240-a789642b-7c94-42ec-8210-af3d1df15c9e.jpg)
+![test result 2](https://github.com/Flow-matic/Crypo-News/blob/main/assets/w3cvalidation/test2.jpg?raw=true)
 
  Bugs Found 
 --- 
@@ -103,5 +103,6 @@ __Frameworks, Libraries & Programs Used__
 
    * The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge, Safari browsers and Brave Browser.
    * The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+   
 
 
