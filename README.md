@@ -44,7 +44,8 @@ Design
      * The structure of the webiste code i used was from the "Love Running" Code institute, i liked the way it looked and user freindly, i added some grid cards with external links to each one.
   
 * Wireframes
-        
+
+  *  Balsamiq was used to create the Wireframe for each of the pages.
 
  Features
 ---  
@@ -81,10 +82,10 @@ __Frameworks, Libraries & Programs Used__
   *  [ W3C Marku Validator](https://validator.w3.org/)
   *  [ W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
-![test result 1](https://user-images.githubusercontent.com/90872113/141260992-77fff4b0-ec19-45b1-b412-ccdb95bc6d05.jpg)
+![test result 1](https://user-images.githubusercontent.com/90872113/141376028-d71cbb79-ba38-4807-b981-71f509058327.jpg)
 
 
-![test result 2](https://user-images.githubusercontent.com/90872113/141262205-98bdb842-4431-45f0-b184-e46760709c31.jpg)
+![test result 2](https://user-images.githubusercontent.com/90872113/141376240-a789642b-7c94-42ec-8210-af3d1df15c9e.jpg)
 
  Bugs Found 
 --- 
@@ -103,4 +104,4 @@ __Frameworks, Libraries & Programs Used__
    * The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge, Safari browsers and Brave Browser.
    * The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
 
-   
+
