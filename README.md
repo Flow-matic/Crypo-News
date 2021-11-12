@@ -43,7 +43,7 @@ Design
 
      * The structure of the webiste code i used was from the "Love Running" Code institute, i liked the way it looked and user freindly, i added some grid cards with external links to each one.
   
-* Wireframes
+* Wireframes [Wireframes](https://github.com/Flow-matic/Crypo-News/blob/main/assets/wireframes/sign%20up%20page.pdf) 
 
   *  [Balsamiq](https://balsamiq.com/) was used to create the Wireframe for each of the pages.
 
