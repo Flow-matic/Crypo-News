@@ -45,7 +45,7 @@ Design
   
 * Wireframes
 
-  *  Balsamiq was used to create the Wireframe for each of the pages.
+  *  [Balsamiq](https://balsamiq.com/) was used to create the Wireframe for each of the pages.
 
  Features
 ---  
@@ -113,9 +113,12 @@ __Frameworks, Libraries & Programs Used__
 
    * Desktop 
    * Laptop 
-   * iPhone7
-   * iPhone 8  
-   * iPhoneX.
+   * IPhone7
+   * IPhone 8  
+   * IPhoneX
+   * Moto g4
+   * Galaxy s5
+   * Ipad pro
 
    Deployment 
 ---  
