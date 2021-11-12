@@ -79,7 +79,7 @@ __Frameworks, Libraries & Programs Used__
 ---   
  The W3C Markup Validator and W3C CSS Validator Services were used to check all the code for each page.
   
-  *  [ W3C Marku Validator](https://validator.w3.org/)
+  *  [ W3C Markup Validator](https://validator.w3.org/)
   *  [ W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
 ![test result 1](https://github.com/Flow-matic/Crypo-News/blob/main/assets/w3cvalidation/test1.jpg?raw=true)
@@ -101,8 +101,28 @@ __Frameworks, Libraries & Programs Used__
   More Testing has been done
 ---  
 
-   * The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge, Safari browsers and Brave Browser.
-   * The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+   * The Website was tested on 
+   * Google Chrome 
+   * Internet Explorer 
+   * Microsoft Edge 
+   * Safari browsers
+    * Brave Browser
+
+   * The website was viewed on a variety of devices such as below.
+   * Desktop 
+   * Laptop 
+   * iPhone7
+   * iPhone 8  
+   * iPhoneX.
+
+   Deployment 
+---  
+
+This site was deployed using Github through Gitpod.
+
+  *  code was writing on Visual Studio software before uploading the files and folders to Gitpod and Github.
+
+  *  A link to the finished website can be found here [ Crypto News Website ](https://8000-sapphire-rook-feer8gxp.ws-us18.gitpod.io/assets/index.html)
    
 
 
