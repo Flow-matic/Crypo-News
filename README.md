@@ -93,6 +93,13 @@ __Frameworks, Libraries & Programs Used__
 
 ![test result 2](https://github.com/Flow-matic/Crypo-News/blob/main/assets/w3cvalidation/test2.jpg?raw=true)
 
+
+SEO 
+
+  *  Serch Engine Optimisation was done using google chrome Lighthouse extention.
+
+   * [ Results ](https://github.com/Flow-matic/Crypo-News/tree/main/assets/seo)
+
  Bugs Found 
 --- 
   
