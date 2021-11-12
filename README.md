@@ -1,6 +1,9 @@
 # crypto-news
 
 The website is to show the latest news and gossips on blockchain technology and cryptocurrency from around the world. As cryptocurrencies transform how we trade, transact and interact online, it has become more important than ever for technology leaders to have experience with these innovations. I am a cryptocurrency enthusiast and I believe the technology along with blockchain, that is just a few years away, will be amazing. 
+--- 
+
+![responsive design](assets/images/responsive design.jpg) 
 
 User Experience (UX)
 --- 
