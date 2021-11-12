@@ -141,7 +141,24 @@ __Frameworks, Libraries & Programs Used__
   * [Stackoverflow](https://stackoverflow.com/) best answer to your technical question.
 
   * All my images are from [Pexels](https://www.pexels.com/), [Unsplash](https://unsplash.com/),
-    [Pixabay](https://pixabay.com/),[Google](https://www.google.com/).
+    [Pixabay](https://pixabay.com/), [Google](https://www.google.com/).
+
+  **Information and Articles are from Various sites listed below.**
+
+  * [World Economics Forum](https://www.google.com/)
+
+  * [Investopedia](https://www.investopedia.com/)
+
+  * [Wiki](https://en.wikipedia.org/wiki/Main_Page)
+
+  * [Ethereum](https://ethereum.org/en/)
+
+  * [XRP](https://ripple.com/xrp)
+
+  Last but not least everyone over at Slack for directing me in the right direction on certain coding issues, and helping me get a good nights sleep 😴 
+  * [Slack](https://slack.com/)
+
+
    
 
 
