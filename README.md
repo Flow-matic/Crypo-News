@@ -1,9 +1,12 @@
 # crypto-news
 
 The website is to show the latest news and gossips on blockchain technology and cryptocurrency from around the world. As cryptocurrencies transform how we trade, transact and interact online, it has become more important than ever for technology leaders to have experience with these innovations. I am a cryptocurrency enthusiast and I believe the technology along with blockchain, that is just a few years away, will be amazing. 
-
+--- 
 
 ![responsive design](https://github.com/Flow-matic/Crypo-News/blob/main/assets/images/responsive%20design.jpg?raw=true) 
+
+
+ [ Crypto News Website ](https://flow-matic.github.io/Crypo-News/index.html)
 
 User Experience (UX)
 --- 
@@ -130,7 +133,7 @@ __Frameworks, Libraries & Programs Used__
 
   *  code was writing on Visual Studio software before uploading the files and folders to Gitpod and Github.
 
-  *  A link to the finished website can be found here [ Crypto News Website ](https://8000-sapphire-rook-feer8gxp.ws-us18.gitpod.io/assets/index.html)
+  *  A link to the finished website can be found here [ Crypto News Website ](https://flow-matic.github.io/Crypo-News/index.html)
 
 
   Credits
