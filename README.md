@@ -95,7 +95,7 @@ __Frameworks, Libraries & Programs Used__
   * Missing Lang"eng" on two pages.
   * Bug fixed by adding missing elements to html.
   * Css one bug reported, missing valid color number.
-  * bug fixed by adding the right number.
+  * Bug fixed by adding the right number.
 
   
   More Testing has been done
@@ -107,7 +107,7 @@ __Frameworks, Libraries & Programs Used__
    * Internet Explorer 
    * Microsoft Edge 
    * Safari browsers
-    * Brave Browser
+   * Brave Browser
 
    **The website was viewed on a variety of devices such as below.**
 
