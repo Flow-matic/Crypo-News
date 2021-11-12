@@ -51,7 +51,7 @@ Design
   
 *  [Balsamiq](https://balsamiq.com/) was used to create the Wireframe for each of the pages.
 
-     * [Wireframes](https://github.com/Flow-matic/Crypo-News/blob/main/assets/wireframes/sign%20up%20page.pdf) 
+     * [Wireframes](https://github.com/Flow-matic/Crypo-News/tree/main/assets/wireframes) 
 
  Features
 ---  
