@@ -101,14 +101,16 @@ __Frameworks, Libraries & Programs Used__
   More Testing has been done
 ---  
 
-   * The Website was tested on 
+   **The Website was tested on**
+
    * Google Chrome 
    * Internet Explorer 
    * Microsoft Edge 
    * Safari browsers
     * Brave Browser
 
-   * The website was viewed on a variety of devices such as below.
+   **The website was viewed on a variety of devices such as below.**
+
    * Desktop 
    * Laptop 
    * iPhone7
@@ -118,11 +120,28 @@ __Frameworks, Libraries & Programs Used__
    Deployment 
 ---  
 
-This site was deployed using Github through Gitpod.
+**This site was deployed using Github through Gitpod.**
 
   *  code was writing on Visual Studio software before uploading the files and folders to Gitpod and Github.
 
   *  A link to the finished website can be found here [ Crypto News Website ](https://8000-sapphire-rook-feer8gxp.ws-us18.gitpod.io/assets/index.html)
+
+
+  Credits
+---  
+
+  * I used similar code to the [Code Institute](https://codeinstitute.net/) Love Running Walkthrough for most of my websitse page.
+
+  * I used [YouTube](https://www.youtube.com/) for my News Page Grid layout with the cards and images.
+
+  * Have to give a big shout out to [W3DOCS](https://www.w3docs.com/snippets/html/how-to-create-an-html-button-that-acts-like-a-link.html) for the Code for my buttons?. 
+
+  * My go to website has to be [W3Schools](https://www.w3schools.com/) so much information and knoledge is amazing.
+
+  * [Stackoverflow](https://stackoverflow.com/) best answer to your technical question.
+
+  * All my images are from [Pexels](https://www.pexels.com/), [Unsplash](https://unsplash.com/),
+    [Pixabay](https://pixabay.com/),[Google](https://www.google.com/).
    
 
 
