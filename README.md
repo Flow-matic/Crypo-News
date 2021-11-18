@@ -15,7 +15,7 @@ User Experience (UX)
 
   * First time visitors goals
 
-  * As a first time visitor of the site I want to be able to understand the whole structure and consept and learn more about all the information available.
+  * As a first time visitor of the site I want to be able to understand the whole structure and consept and learn more about all the information available.)
 
   * As a user of the website I want to be able to navigate around easily.
 
@@ -123,16 +123,20 @@ SEO
    * Brave Browser
 
      * When opening the website in the URL, and first entering the home page, main image txt has an external link which has been thoroughly tested and works.
+     ![Home page test](https://github.com/Flow-matic/Crypto-News/blob/main/assets/testimages/hometest.jpg?raw=true)
 
      * Buttons below the images are clickible to more external link information regarding the website information.
 
      * All footer icons on all pages have been tested, when a useer clicks them they will be taking to each platform regarding cryptocurrency and blockchain technology information.
+     ![news page test](https://github.com/Flow-matic/Crypto-News/blob/main/assets/testimages/footertest.jpg?raw=true)
 
      * On the news page, the main header title has a clickable external link and has been tested also.
 
      * All buttons on iamge card grid are alos working fine and found no issues.
+     ![button test](https://github.com/Flow-matic/Crypto-News/blob/main/assets/testimages/newstest.jpg?raw=true)
 
-     * Sign up page was tested by filling in the information needed and any missing information would pop up a missing 
+     * Sign up page was tested by filling in the information needed and any missing information would pop up a missing.
+     ![button test](https://github.com/Flow-matic/Crypto-News/blob/main/assets/testimages/signtest.jpg?raw=true)
 
 
 
@@ -152,7 +156,7 @@ SEO
 
 **This site was deployed using Github through Gitpod.**
 
-  *  code was writing on Visual Studio software before uploading the files and folders to Gitpod and Github.
+  *  code was writing on Visual Studio Code software before uploading the files and folders to Gitpod and Github.
 
   *  A link to the finished website can be found here [ Crypto News Website ](https://flow-matic.github.io/Crypo-News/index.html)
 
