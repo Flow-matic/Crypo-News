@@ -124,7 +124,7 @@ SEO
 
      * When opening the website in the URL, and first entering the home page, main image txt has an external link which has been thoroughly tested and works.
 
-     ![Home page test]()
+     ![Home page test](https://github.com/Flow-matic/Crypto-News/blob/main/assets/testimages/maintest.jpg?raw=true)
 
      * Buttons below the images are clickible to more external link information regarding the website information.
 
