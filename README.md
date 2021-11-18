@@ -162,21 +162,21 @@ SEO
 
   *  code was writing on Visual Studio Code software before uploading the files and folders to Gitpod and Github.
 
-   * Steps taking to upload and push files to Github.
+  * Steps taking to upload and push files to Github.
 
-    *  Open your new project folder with vscode.
+  *  Open your new project folder with vscode.
 
     ![Github push 1](https://github.com/Flow-matic/Crypto-News/blob/main/assets/testimages/gitpush.jpg?raw=true)
 
-    *  click on the source conrol menu on the sidebar.
+  *  click on the source conrol menu on the sidebar.
 
     ![Github push](https://github.com/Flow-matic/Crypto-News/blob/main/assets/testimages/gitpush1.jpg?raw=true)
 
-    *  Click on publish to github.
+  *  Click on publish to github.
 
     ![Github push](https://github.com/Flow-matic/Crypto-News/blob/main/assets/testimages/gitpush2.jpg?raw=true)
 
-    * From there just login and follow the instructions and you're good to go.
+  * From there just login and follow the instructions and you're good to go.
 
     ![Github push](https://github.com/Flow-matic/Crypto-News/blob/main/assets/testimages/gitpush3.jpg?raw=true)
 
