@@ -25,16 +25,16 @@ User Experience (UX)
 
    * As a first time visitor of the website I want to be able to sign up for more latest news. 
 
-   * As a returning visitor to crypto news website i would expect to have more of the latest news 
+   * As a returning visitor to crypto news website I would expect to read more of the latest news 
    and updates on which the website is based on.
 
-   * As a returning regular visitor i would expect all external links to be working and updated.
+   * As a returning regular visitor I would expect all external links to be working and updated.
 
-  *  From the owners perspectives regarding the webiste, i would want cryptocurrency and blockchain enthusiasts to visit as offten as possible.
+  *  From the owners perspectives regarding the webiste, I would want cryptocurrency and blockchain enthusiasts to visit as offten as possible to learn more.
 
 **More to add**
    
-   * Would like to add more Information to the news page, As time goes by with the latest             cryptocurrency and blockchain technology information unfolds.
+   * I Would like to add more Information to the news page, As time goes by with the latest          cryptocurrency and blockchain technology’s from around the world.
 
 ___
 
