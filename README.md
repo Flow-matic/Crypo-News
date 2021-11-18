@@ -7,7 +7,7 @@ The website is to show the latest news and gossips on blockchain technology and 
 ![responsive design](https://github.com/Flow-matic/Crypo-News/blob/main/assets/images/responsive%20design.jpg?raw=true) 
 
 
- [ Crypto News Website ](https://flow-matic.github.io/Crypo-News/index.html)
+ [ Crypto News Website ](https://flow-matic.github.io/Crypto-News/)
 
 User Experience (UX)
 --- 
