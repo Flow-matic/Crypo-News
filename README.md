@@ -1,7 +1,7 @@
 # crypto-news
 
 The website is to show the latest news and gossips on blockchain technology and cryptocurrency from around the world. As cryptocurrencies transform how we trade, transact and interact online, it has become more important than ever for technology leaders to have experience with these innovations. I am a cryptocurrency enthusiast and I believe the technology along with blockchain, that is just a few years away, will be amazing. 
-
+--- 
 
 ![responsive design](https://github.com/Flow-matic/Crypo-News/blob/main/assets/images/responsive%20design.jpg?raw=true) 
 
@@ -13,17 +13,28 @@ User Experience (UX)
   user stories 
 --- 
 
-  * First time visitors goals
+   * First time visitors goals
 
-  * As a first time visitor of the site I want to be able to understand the whole structure and consept and learn more about all the information available.)
+   * As a first time visitor of the site I want to be able to understand the whole structure and consept and learn more about all the information available.)
 
-  * As a user of the website I want to be able to navigate around easily.
+   * As a user of the website I want to be able to navigate around easily.
 
-  * As a user of the website I want to be able to see real-life examples of the information available.
+   * As a user of the website I want to be able to see real-life examples of the information available.
 
-  * As a first time visitor I want to make sure that all the social media links and other external links are all true and can be trusted.
+   * As a first time visitor I want to make sure that all the social media links and other external links are all true and can be trusted.
 
-  * As a first time visitor of the website I want to be able to sign up for more latest news. 
+   * As a first time visitor of the website I want to be able to sign up for more latest news. 
+
+   * As a returning visitor to crypto news website i would expect to have more of the latest news 
+   and updates on which the website is based on.
+
+   * As a returning regular visitor i would expect all external links to be working and updated.
+
+  *  From the owners perspectives regarding the webiste, i would want cryptocurrency and blockchain enthusiasts to visit as offten as possible.
+
+**More to add**
+   
+   * Would like to add more Information to the news page, As time goes by with the latest             cryptocurrency and blockchain technology information unfolds.
 
 ___
 
@@ -205,7 +216,9 @@ SEO
   * All my images are from [Pexels](https://www.pexels.com/), [Unsplash](https://unsplash.com/),
     [Pixabay](https://pixabay.com/), [Google](https://www.google.com/).
 
+
   **Information and Articles are from Various sites listed below.**
+
 
   * [World Economics Forum](https://www.google.com/)
 
