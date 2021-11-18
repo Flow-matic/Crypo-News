@@ -13,17 +13,17 @@ User Experience (UX)
   user stories 
 --- 
 
-  * first time visitors goals
+  * First time visitors goals
 
-  * As a first time visitor of the site i want to be able to understand the whole structure and consept and learn more about all the information available.
+  * As a first time visitor of the site I want to be able to understand the whole structure and consept and learn more about all the information available.
 
-  * As a user of the website i want to be able to navigate around easily.
+  * As a user of the website I want to be able to navigate around easily.
 
-  * As a user of the website i want to be able to see real-life examples of the information available.
+  * As a user of the website I want to be able to see real-life examples of the information available.
 
-  * As a first time visitor i want to make sure that all the social media links and other external links are all true and can be trusted.
+  * As a first time visitor I want to make sure that all the social media links and other external links are all true and can be trusted.
 
-  * As a first time visitor of the webiste i want to be able to sign up for more latest news. 
+  * As a first time visitor of the website I want to be able to sign up for more latest news. 
 
 ___
 
@@ -121,6 +121,20 @@ SEO
    * Microsoft Edge 
    * Safari browsers
    * Brave Browser
+
+     * When opening the website in the URL, and first entering the home page, main image txt has an external link which has been thoroughly tested and works.
+
+     * Buttons below the images are clickible to more external link information regarding the website information.
+
+     * All footer icons on all pages have been tested, when a useer clicks them they will be taking to each platform regarding cryptocurrency and blockchain technology information.
+
+     * On the news page, the main header title has a clickable external link and has been tested also.
+
+     * All buttons on iamge card grid are alos working fine and found no issues.
+
+     * Sign up page was tested by filling in the information needed and any missing information would pop up a missing 
+
+
 
    **The website was viewed on a variety of devices such as below.**
 
