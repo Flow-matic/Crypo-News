@@ -166,19 +166,19 @@ SEO
 
     * 1- Open your new project folder with vscode.
 
-    ![Github push]()
+    ![Github push 1]()
 
     * 2- click on the source conrol menu on the sidebar.
 
-    ![Github push]()
+    ![Github push](https://github.com/Flow-matic/Crypto-News/blob/main/assets/testimages/gitpush1.jpg?raw=true)
 
     * 3- Click on publish to github.
 
-    ![Github push]()
+    ![Github push](https://github.com/Flow-matic/Crypto-News/blob/main/assets/testimages/gitpush2.jpg?raw=true)
 
     * 4- From there just login and follow the instructions and you're good to go.
 
-    ![Github push]()
+    ![Github push](https://github.com/Flow-matic/Crypto-News/blob/main/assets/testimages/gitpush3.jpg?raw=true)
 
   *  A link to the finished website can be found here [ Crypto News Website ](https://flow-matic.github.io/Crypo-News/index.html)
 
