@@ -166,7 +166,7 @@ SEO
 
     * 1- Open your new project folder with vscode.
 
-    ![Github push 1]()
+    ![Github push 1](https://github.com/Flow-matic/Crypto-News/blob/main/assets/testimages/gitpush.jpg?raw=true)
 
     * 2- click on the source conrol menu on the sidebar.
 
