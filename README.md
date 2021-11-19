@@ -242,7 +242,7 @@ SEO
 
     * XRP is a real-time gross settlement system, currency exchange and remittance network created by Ripple Labs Inc., a US-based technology company, And used around the world by most banks.
 
-  * The only chat room you’re ever going to need slack.
+**The only chat room you’re ever going to need slack.**
   
   Last but not least everyone over at Slack for directing me in the right direction on certain coding issues, and helping me get a good nights sleep 😴 
   * [Slack](https://slack.com/)
