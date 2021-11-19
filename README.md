@@ -16,26 +16,26 @@ User Experience (UX)
 
    * First time visitors goals
 
-    * As a first time visitor of the site I want to be able to understand the whole structure and consept and learn more about all the information available.)
+     * As a first time visitor of the site I want to be able to understand the whole structure and consept and learn more about all the information available.)
 
-    * As a user of the website I want to be able to navigate around easily.
+     * As a user of the website I want to be able to navigate around easily.
 
-    * As a user of the website I want to be able to see real-life examples of the information available.
+     * As a user of the website I want to be able to see real-life examples of the information available.
 
-    * As a first time visitor I want to make sure that all the social media links and other external links are all true and can be trusted.
+     * As a first time visitor I want to make sure that all the social media links and other external links are all true and can be trusted.
 
-    * As a first time visitor of the website I want to be able to sign up for more latest news. 
+     * As a first time visitor of the website I want to be able to sign up for more latest news. 
 
-    * As a returning visitor to crypto news website I would expect to read more of the latest news 
+     * As a returning visitor to crypto news website I would expect to read more of the latest news 
    and updates on which the website is based on.
 
-    * As a returning regular visitor I would expect all external links to be working and updated.
+     * As a returning regular visitor I would expect all external links to be working and updated.
 
-    *  From the owners perspectives regarding the webiste, I would want cryptocurrency and blockchain enthusiasts to visit as offten as possible to learn more.
+     * From the owners perspectives regarding the webiste, I would want cryptocurrency and blockchain enthusiasts to visit as offten as possible to learn more.
 
 **More to add**
    
-   * I Would like to add more Information to the news page, As time goes by with the latest          cryptocurrency and blockchain technology’s from around the world, theres too much information to add all at ones it would take aeons, ill keep adding.
+  * I Would like to add more Information to the news page, As time goes by with the latest          cryptocurrency and blockchain technology’s from around the world, theres too much information to add all at ones it would take aeons, ill keep adding.
 
 ___
 
