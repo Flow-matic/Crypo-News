@@ -319,8 +319,14 @@ footer {
        grid-template-columns: repeat(3, 1fr);
        grid-gap: 20px 50px;
        align-items: center;
-       padding-top: 40px;
-       padding-left: 50px;
+       padding-top: 35px;
+       padding-right: 35px;
+       padding-bottom: 35px;
+       padding-left: 35px;
+       justify-items: center;
+       justify-content: center;
+       align-content: center;
+
        
 
    }
