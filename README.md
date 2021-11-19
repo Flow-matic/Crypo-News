@@ -16,26 +16,26 @@ User Experience (UX)
 
    * First time visitors goals
 
-   * As a first time visitor of the site I want to be able to understand the whole structure and consept and learn more about all the information available.)
+    * As a first time visitor of the site I want to be able to understand the whole structure and consept and learn more about all the information available.)
 
-   * As a user of the website I want to be able to navigate around easily.
+    * As a user of the website I want to be able to navigate around easily.
 
-   * As a user of the website I want to be able to see real-life examples of the information available.
+    * As a user of the website I want to be able to see real-life examples of the information available.
 
-   * As a first time visitor I want to make sure that all the social media links and other external links are all true and can be trusted.
+    * As a first time visitor I want to make sure that all the social media links and other external links are all true and can be trusted.
 
-   * As a first time visitor of the website I want to be able to sign up for more latest news. 
+    * As a first time visitor of the website I want to be able to sign up for more latest news. 
 
-   * As a returning visitor to crypto news website I would expect to read more of the latest news 
+    * As a returning visitor to crypto news website I would expect to read more of the latest news 
    and updates on which the website is based on.
 
-   * As a returning regular visitor I would expect all external links to be working and updated.
+    * As a returning regular visitor I would expect all external links to be working and updated.
 
-  *  From the owners perspectives regarding the webiste, I would want cryptocurrency and blockchain enthusiasts to visit as offten as possible to learn more.
+    *  From the owners perspectives regarding the webiste, I would want cryptocurrency and blockchain enthusiasts to visit as offten as possible to learn more.
 
 **More to add**
    
-   * I Would like to add more Information to the news page, As time goes by with the latest          cryptocurrency and blockchain technology’s from around the world.
+   * I Would like to add more Information to the news page, As time goes by with the latest          cryptocurrency and blockchain technology’s from around the world, theres too much information to add all at ones it would take aeons, ill keep adding.
 
 ___
 
@@ -49,7 +49,7 @@ Design
 ---
    * Colour Scheme
 
-     * The two main colours for the website are Dark-grey and lite-Salmon colour.
+     * The two main colours for the website are Dark-grey and Pure-blue colour.
   
    * Typography
 
@@ -69,9 +69,10 @@ Design
 ---  
  ___ 
 
-  * Responsive on all device sizes
+  * Responsive on all popular device sizes.
 
-  * Interactive elements 
+  * Interactive elements, some if not all external links have so much information and knowledge for every visiting user.
+
 
  Technologies Used
 --- 
@@ -204,33 +205,45 @@ SEO
   Credits
 ---  
 
-  * I used similar code to the [Code Institute](https://codeinstitute.net/) Love Running Walkthrough for most of my websitse page.
+  * I used similar code to the [Code Institute](https://codeinstitute.net/) Love Running Walkthrough for most of my websitse page, as i liked the look and feel of the layout.
 
-  * I used [YouTube](https://www.youtube.com/) for my News Page Grid layout with the cards and images.
+  * I used [YouTube](https://www.youtube.com/) for my News Page Grid layout with the cards and images, iam more of a visual person and take more information in by viewing rather than reading.
 
   * Have to give a big shout out to [W3DOCS](https://www.w3docs.com/snippets/html/how-to-create-an-html-button-that-acts-like-a-link.html) for the Code for my buttons?. 
 
-  * My go to website has to be [W3Schools](https://www.w3schools.com/) so much information and knoledge is amazing.
+  * My go to website has to be [W3Schools](https://www.w3schools.com/) so much information and knoledge is amazing, love everything they do over on there website.
 
-  * [Stackoverflow](https://stackoverflow.com/) best answer to your technical question.
+  * [Stackoverflow](https://stackoverflow.com/) best answers to your technical question.
 
   * All my images are from [Pexels](https://www.pexels.com/), [Unsplash](https://unsplash.com/),
-    [Pixabay](https://pixabay.com/), [Google](https://www.google.com/).
+    [Pixabay](https://pixabay.com/), [Google](https://www.google.com/), shout out to all the amazing photographers over there.
 
 
   **Information and Articles are from Various sites listed below.**
 
 
-  * [World Economics Forum](https://www.google.com/)
+  * [World Economics Forum](https://www.google.com/) 
+    
+    * The World Economic Forum is an international non-governmental and lobbying organisation based in Cologny, canton of Geneva, Switzerland. It was founded on 24 January 1971 by Klaus Schwab.
 
   * [Investopedia](https://www.investopedia.com/)
 
+    * Investopedia provides investment dictionaries, advice, reviews, ratings and comparisons of financial products such as securities accounts. Investopedia has more than 32,000 articles and reaches 20 million unique monthly viewers.
+
   * [Wiki](https://en.wikipedia.org/wiki/Main_Page)
+
+    * Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
 
   * [Ethereum](https://ethereum.org/en/)
 
+    * Ethereum is a decentralized, open-source blockchain with smart contract functionality. Ether is the native cryptocurrency of the platform. Amongst cryptocurrencies.
+
   * [XRP](https://ripple.com/xrp)
 
+    * XRP is a real-time gross settlement system, currency exchange and remittance network created by Ripple Labs Inc., a US-based technology company, And used around the world by most banks.
+
+  * The only chat room you’re ever going to need slack.
+  
   Last but not least everyone over at Slack for directing me in the right direction on certain coding issues, and helping me get a good nights sleep 😴 
   * [Slack](https://slack.com/)
 
