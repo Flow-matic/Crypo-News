@@ -202,8 +202,8 @@ SEO
 
 
 
-  Credits
- ---  
+   Credits
+---  
 
   * I used similar code to the [Code Institute](https://codeinstitute.net/) "Love Running" walkthrough for most of my website page, as I liked the look and feel of the layout.
 
