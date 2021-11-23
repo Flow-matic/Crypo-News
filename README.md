@@ -16,7 +16,7 @@ User Experience (UX)
 
    * First time visitors goals
 
-     * As a first time visitor of the site I want to be able to understand the whole structure and consept and learn more about all the information available.)
+     * As a first time visitor of the site I want to be able to understand the whole structure and concept and learn more about all the information available.)
 
      * As a user of the website I want to be able to navigate around easily.
 
